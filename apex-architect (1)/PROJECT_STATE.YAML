@@ -1,0 +1,16 @@
+project_name: "Apex Architect"
+version: "1.0.0"
+current_sprint: 1
+completed_features: []
+active_gaps:
+  - "Core Dashboard"
+  - "Blueprint Engine"
+  - "State Tree Viewer"
+immutable_rules:
+  - "Zero-Hallucination output"
+  - "XML-Schema isolation for all prompts"
+  - "Deterministic UI scaling"
+architecture:
+  frontend: "React + Tailwind (Recipe 3: Hardware vibe)"
+  backend: "Express + Gemini 3.1"
+  logic: "Agentic Self-Correction"
