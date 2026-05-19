@@ -1,0 +1,6 @@
+{
+  "name": "Apex Architect",
+  "description": "High-precision engineering dashboard for programmatic agentic architecture and prompt optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
